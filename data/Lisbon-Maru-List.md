@@ -4,7 +4,7 @@
 
 ---
 
-# 828 Men Perished between 27 September and 5 October 1942 in the Atrocity of the sinnking of the _Lisben Maru_ 里斯本丸事件遇难者名单（828名）
+# 828 Men Perished between 27 September and 5 October 1942 in the Atrocity of the sinnking of the _Lisbon Maru_ 里斯本丸事件遇难者名单（828名）
 
 ## Hold No.1 (一号舱) 
 
@@ -169,7 +169,7 @@
 
 ---
 
-# 995 Men survived the atrocity of the sinnking of the _Lisben Maru_ 里斯本丸事件幸存者名单（998名）
+# 995 Men survived the atrocity of the sinnking of the _Lisbon Maru_ 里斯本丸事件幸存者名单（998名）
 
 ## Hold No.1 (一号舱) 
 
@@ -361,7 +361,7 @@
 
 ---
 
-# 255 Chinese Fishermen who participated in the rescue of the sinnking of  the _Lisben Maru_ 参与里斯本丸沉没救援英军战俘的中国渔民（255名）
+# 255 Chinese Fishermen who participated in the rescue of the sinnking of  the _Lisbon Maru_ 参与里斯本丸沉没救援英军战俘的中国渔民（255名）
 
 **参与人数**: 255人
 
