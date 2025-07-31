@@ -16,4 +16,4 @@ All data files can be found in the `data` directory.
 
 ## License
 
-MIT License - See LICENSE file for details
+This project is licensed under the [MIT License](LICENSE) file.
